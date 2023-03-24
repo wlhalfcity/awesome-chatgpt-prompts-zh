@@ -675,6 +675,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
 
-## 感谢
+## 感谢yes
 
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
